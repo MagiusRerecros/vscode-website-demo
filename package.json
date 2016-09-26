@@ -1,0 +1,18 @@
+{
+    "name": "vscode-website-demo",
+    "description": "A basic HTML website created in Visual Studio Code using NPM and Bower modules",
+    "author": {
+        "name": "Magius Rerecros"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MagiusRerecros/vscode-website-demo/issues"
+    },
+    "dependencies": {
+        "lite-server": "*"
+    },
+    "scripts": {
+        "lite": "lite-server"
+    }
+}
